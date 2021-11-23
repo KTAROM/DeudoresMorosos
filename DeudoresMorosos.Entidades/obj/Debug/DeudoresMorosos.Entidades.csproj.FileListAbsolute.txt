@@ -1,0 +1,6 @@
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Entidades\bin\Debug\DeudoresMorosos.Entidades.dll
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Entidades\bin\Debug\DeudoresMorosos.Entidades.pdb
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Entidades\obj\Debug\DeudoresMorosos.Entidades.csproj.AssemblyReference.cache
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Entidades\obj\Debug\DeudoresMorosos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Entidades\obj\Debug\DeudoresMorosos.Entidades.dll
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Entidades\obj\Debug\DeudoresMorosos.Entidades.pdb

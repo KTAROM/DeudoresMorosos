@@ -1,0 +1,11 @@
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\bin\Debug\DeudoresMorosos.Datos.dll
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\bin\Debug\DeudoresMorosos.Datos.pdb
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\bin\Debug\DeudoresMorosos.Entidades.dll
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\bin\Debug\DeudoresMorosos.Entidades.pdb
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\obj\Debug\DeudoresMorosos.Datos.csproj.AssemblyReference.cache
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\obj\Debug\DeudoresMorosos.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\obj\Debug\DeudoresMorosos.Datos.csproj.CopyComplete
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\obj\Debug\DeudoresMorosos.Datos.dll
+C:\Users\Romina\source\repos\DeudoresMorosos\DeudoresMorosos.Datos\obj\Debug\DeudoresMorosos.Datos.pdb
